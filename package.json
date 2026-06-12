@@ -1,0 +1,8 @@
+{
+  "name": "pixel-provenance",
+  "version": "0.2.0-dev",
+  "description": "Local browser tool for pixel provenance, metadata inspection, and frequency analysis",
+  "type": "module",
+  "private": true,
+  "license": "MIT"
+}
